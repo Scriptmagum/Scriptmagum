@@ -1,6 +1,10 @@
-Hi planet🚀  
-Here Zh3_gh05t🔥  
-Just make,learn and share✨  
+\#Hi planet🚀  
+
+echo -n Zh3_gh05t🔥  
+
+$((hacker||Ctfplayer||cpplayer))💯  
+
+\#Just make,learn and share✨  
 ...
 <!---
 Scriptmagum/Scriptmagum is a ✨ special ✨ repository because its `README.md` (this file appears on your GitHub profile.
